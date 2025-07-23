@@ -58,5 +58,5 @@ cd /mnt
 You can verify connectivity using `ip a` and `ping`. Once the system is reachable, disconnect from the console and SSH into the live environment:
 
 ```bash
-ssh ubuntu-server@192.168.1.100
+ssh ubuntu-server@192.168.100.10
 ```
